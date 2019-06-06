@@ -1,1 +1,6 @@
-
+This repository serves as an introduction to the problem of wax formation 
+and its thermodynamic modeling. Wax deposition in surface equipment and 
+production pipelines gives rise to a wide variety of problems encountered 
+in the petroleum industry and therefore proper modeling of deposition is very important.
+The major topics covered here are based on Chapter 11 of Pedersen book; 
+however, when necessary, the referenced papers are studied and summarized.
